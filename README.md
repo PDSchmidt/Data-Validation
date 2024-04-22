@@ -13,4 +13,6 @@ Password Verification
 Phone Number (US)  
 SSN  
 URL  
-Words that end with "ion" (Assignment specification)
+Words that end with "ion" (Assignment specification)  
+  
+See RegEx/src/Solution.java for the regular expressions used. Test Names clue into test cases.
